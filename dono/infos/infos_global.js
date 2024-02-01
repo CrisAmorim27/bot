@@ -91,12 +91,12 @@ ${prefix}fotomenu só marcar uma foto, que já é trocado.
 
 
 ----------------------------
-CRÉDITOS DO BEM VINDO : 
+CRÉDITOS: 
 
-Brizas-Bot = Ian.
+Briz-Bot = Cris.
 
 
-Assinado: Aleatory Bot. 
+Assinado: Spy Bot. 
 
 -----------------------------
 `;
